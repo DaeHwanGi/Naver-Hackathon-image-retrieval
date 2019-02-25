@@ -61,3 +61,7 @@ reference는 reference끼리 해보라고 하셔서 그렇게 했더니 가장 �
 1. 크기가 작은 망들을 가지고 앙상블을 시도하지 않았던 점
 
 2. 위에서 언급한 비선형 activation을 고려하지 못한 점
+
+## 결과
+
+![result](images/result.png)
